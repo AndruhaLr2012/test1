@@ -1,6 +1,5 @@
 from api import PetFriends
 from settings import valid_email, valid_password
-from os
 
 pf = PetFriends()
 
